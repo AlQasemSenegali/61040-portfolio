@@ -13,7 +13,7 @@ If you ever bump into me, feel free to say hi! Looking for conversation starters
 3. Ducks, ducks, and more ducks 🦆
 
 ## Assignments
-- [Assignment 1](#)  
+- [Assignment 1](assignments/assignment1.md)  
 - [Assignment 2](#)
 
 ## Projects
