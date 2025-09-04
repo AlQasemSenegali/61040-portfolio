@@ -1,17 +1,23 @@
-# Template Portfolio
-This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
+# 61040 Portfolio
 
-# About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
+This repository is dedicated to my work for Fall 2025 in the Software Design course.
 
-Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
+## About Me
+My name is **AlQasem Senegali (Q)**. I’m a senior at MIT majoring in Computer Science & Engineering.  
+My studies have focused on applied math topics and how they can be used to build and enhance AI.  
+My career interests mostly lie in education, though I’m still exploring!
 
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
+If you ever bump into me, feel free to say hi! Looking for conversation starters? Here are a few:
+1. Interesting psychological facts  
+2. Anything about education  
+3. Ducks, ducks, and more ducks 🦆
+
+## Assignments
+- [Assignment 1](#)  
+- [Assignment 2](#)
+
+## Projects
+- [Project 1](#)  
+- [Project 2](#)
 
 
-# Table of Contents
-[Link to Assignment 1](assignments/assignment1.md)
