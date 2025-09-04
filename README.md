@@ -12,6 +12,8 @@ If you ever bump into me, feel free to say hi! Looking for conversation starters
 2. Anything about education  
 3. Ducks, ducks, and more ducks 🦆
 
+<img src="assets/b5e33c40-fa6a-4cc6-b1fc-9732bbffc88b~1.jpg" alt="Cute ducks" width="250"/>
+
 ## Assignments
 - [Assignment 1](assignments/assignment1.md)  
 - [Assignment 2](#)
