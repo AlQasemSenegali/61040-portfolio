@@ -18,6 +18,9 @@ If you ever bump into me, feel free to say hi! Looking for conversation starters
 - [Assignment 1](assignments/assignment1.md)  
 - [Assignment 2](#)
 
+## PSets
+- [PSet 1](psets/pset1.md)
+
 ## Projects
 - [Project 1](#)  
 - [Project 2](#)
