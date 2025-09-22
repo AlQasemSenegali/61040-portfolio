@@ -20,6 +20,7 @@ If you ever bump into me, feel free to say hi! Looking for conversation starters
 
 ## PSets
 - [PSet 1](psets/pset1.md)
+- [PSet 2](psets/pset2.md)
 
 ## Projects
 - [Project 1](#)  
