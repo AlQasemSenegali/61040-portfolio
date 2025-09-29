@@ -16,7 +16,7 @@ If you ever bump into me, feel free to say hi! Looking for conversation starters
 
 ## Assignments
 - [Assignment 1](assignments/assignment1.md)  
-- [Assignment 2](#)
+- [Assignment 2](assignments/assignment2.md)
 
 ## PSets
 - [PSet 1](psets/pset1.md)
